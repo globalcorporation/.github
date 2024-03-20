@@ -9,10 +9,12 @@ jobs:
       - name: Readme Profile Youtube
         continue-on-error: true
         uses: DenverCoder1/github-readme-youtube-cards@main
+        env:
+          GH_TOKEN: ${{ secrets.TOKEN_GITHUB }}
         with:
           lang: "id"
           channel_id: UCRPx9vOpzqVwALIqYnJRhTw
           author_name: GitHub Actions
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
           commit_message: "docs(readme): Update YouTube cards"
-          readme_path: profile/README.md
+          readme_path: profile/README.md 
