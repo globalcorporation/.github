@@ -30,5 +30,9 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
 
 ## Social Media
 
-1. [Telegram Group Developer Global Public](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
-2. 
+<h3 align="center">
+  Telegram
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20">
+</h3>
+
+1. [Group Developer Global Public](https://t.me/DEVELOPER_GLOBAL_PUBLIC) 
