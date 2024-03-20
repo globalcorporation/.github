@@ -28,6 +28,16 @@ Dengan fokus yang tajam pada inovasi dan keunggulan teknologi
 
 Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik terhadap keamanan perusahaan, Global Corporation telah menjadi acuan utama bagi perusahaan lain yang mengutamakan keamanan dan keselamatan sebagai prioritas utama dalam bisnis mereka.
 
+
+## Social Media
+
+<h3 align="center">
+  Telegram
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20">
+</h3>
+
+1. [Group Developer Global Public](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
+
 ## Product / Services
 
 1. **Clone Bot / Userbot**
@@ -61,12 +71,18 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
     - **Terminate**
     - **Upgrade**
 
-## Social Media
+## Cara Beli Jasa / Products 
 
-<h3 align="center">
-  Telegram
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20">
-</h3>
+- **Lewat Telegram**
+  -  Buka Bot: https://t.me/GLOBAL_CORP_ORG_BOT
+  -  Isi data pribadi / subscribe channel
+  -  Tap Main menu pilih services / products
+  -  Pilih Product / Services
+  -  Pastikan coin mencukupi
+  -  Isi data yang di butuhkan
+  
+Video Tutorial
+[![Watch the video](https://img.youtube.com/vi/TY0Y21C6asM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TY0Y21C6asM)
 
-1. [Group Developer Global Public](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
+- **Lewat App**
 
