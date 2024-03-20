@@ -74,6 +74,7 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
 ## Cara Beli Jasa / Products 
 
 - **Lewat Telegram**
+  Jika kamu ingin membeli bisa lewat telegram
   -  Buka Bot: https://t.me/GLOBAL_CORP_ORG_BOT
   -  Isi data pribadi / subscribe channel
   -  Tap Main menu pilih services / products
@@ -85,4 +86,5 @@ Video Tutorial
 [![Watch the video](https://img.youtube.com/vi/TY0Y21C6asM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TY0Y21C6asM)
 
 - **Lewat App**
+  jika kamu ingin melihat prroduct / jasa dengan full demo kamu bisa beli lewat app
 
