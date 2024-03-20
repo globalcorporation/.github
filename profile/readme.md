@@ -10,9 +10,7 @@ Dengan fokus yang tajam pada inovasi dan keunggulan teknologi
 
 Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik terhadap keamanan perusahaan, Global Corporation telah menjadi acuan utama bagi perusahaan lain yang mengutamakan keamanan dan keselamatan sebagai prioritas utama dalam bisnis mereka.
 
-## Social Media Official
+## Social Media
 
-## Social Media 3rd Parties
-
-1. [Developer Global Public Telegram](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
+1. [Telegram Group Developer Global Public](https://t.me/DEVELOPER_GLOBAL_PUBLIC)
 2. 
