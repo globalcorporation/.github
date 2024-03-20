@@ -1,6 +1,10 @@
 
 name: AutoMation
-on: [workflow_dispatch]
+on:
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 0 */1 * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
+  workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
