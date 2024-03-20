@@ -3,7 +3,7 @@ name: AutoMation
 on: [workflow_dispatch]
 jobs:
   metrics:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps: 
@@ -17,14 +17,3 @@ jobs:
           lang: "id"
           channel_id: UCRPx9vOpzqVwALIqYnJRhTw 
           readme_path: profile/README.md 
-
-      - name: PUSH
-        run: |
-
-          git config --global user.name 'Your Name' 
-          git config --global user.email 'Your Email for GitHub'
-          git config user.name github-actions[bot]
-          git config user.email github-actions[bot]@users.noreply.github.com
-          git add .
-          git commit -m update
-          git push 
