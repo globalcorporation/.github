@@ -48,19 +48,19 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_bot_app)
 
-### **Global Bot Telegram**
+### Global Bot Telegram
 
   Super Bot Telegram memungkinkan anda manage berbagai chat group / private / channel sekaligus tempat jual beli produk yang kami jual, anda bisa membeli layanan ini mulai IDR: 25k / bulan
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_bot_telegram)
 
-### **Global Userbot Telegram**
+### Global Userbot Telegram
 
   Super Bot Telegram memungkinkan anda manage berbagai chat group / private / channel sekaligus tempat jual beli produk yang kami jual, anda bisa membeli layanan ini mulai IDR: 25k / bulan
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_userbot_telegram)
 
-### **Global Bot Whatsapp**
+### Global Bot Whatsapp
 
   Super Bot Telegram memungkinkan anda manage berbagai chat group / private / channel sekaligus tempat jual beli produk yang kami jual, anda bisa membeli layanan ini mulai IDR: 25k / bulan
 
