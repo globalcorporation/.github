@@ -27,7 +27,7 @@ Dengan fokus yang tajam pada inovasi dan keunggulan teknologi
 
 Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik terhadap keamanan perusahaan, Global Corporation telah menjadi acuan utama bagi perusahaan lain yang mengutamakan keamanan dan keselamatan sebagai prioritas utama dalam bisnis mereka.
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/sponsor.png" width="28" url="https://google.com">
 
 ## Application / Product / Project Official
 
