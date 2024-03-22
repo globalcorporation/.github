@@ -71,13 +71,21 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/coinlox)
 
-### Archivon
+<h3 align="center">
+  Archivon
+
+  ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/archivon.png)
+</h3>
 
   **Applikasi** operating system based linux yang akan release
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/coinlox)
 
-### Coinlox
+<h3 align="center">
+  Coinlox
+
+  ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/coinlox.png)
+</h3>
 
   **Applikasi** Wallet Cross Platform memungkinkan anda untuk menyimpan uang di internet dengan aman
 
