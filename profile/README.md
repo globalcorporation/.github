@@ -1,8 +1,7 @@
 <h3 align="center">
   Global Corporation
-  
+
   ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/global_corporation.png)
- <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h3>
 
 
@@ -37,7 +36,11 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
 
 ## Application / Product / Project Official
 
-### Global App
+<h3 align="center">
+  Global App
+
+  ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/global_corporation.png)
+</h3>
 
   Super Applikasi cross platform memungkinkan anda melakukan social media / chat sekaligus tempat bisnis jual beli mencari pekerjaan
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_app)
