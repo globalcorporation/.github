@@ -31,30 +31,36 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
 
 ## Application / Product / Project Official
 
-1. Global App
+### Global App
 
   Super Applikasi cross platform memungkinkan anda melakukan social media / chat sekaligus tempat bisnis jual beli mencari pekerjaan
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_app)
 
-2. Global Bot App
+### Global Bot App
 
   Super Applikasi cross platform memungkinkan anda menghandle banyak bot / userbot / ai untuk assistent anda sehingga memudahkan anda dalam segala urusan
   
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_bot_app)
 
-3. Global Bot Telegram
+### Global Code Editor
+
+  Applikasi Code Editor cross platform memungkinkan anda untuk coding di berbagai platform
+
+[![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_bot_app)
+
+### **Global Bot Telegram**
 
   Super Bot Telegram memungkinkan anda manage berbagai chat group / private / channel sekaligus tempat jual beli produk yang kami jual, anda bisa membeli layanan ini mulai IDR: 25k / bulan
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_bot_telegram)
 
-4. Global Userbot Telegram
+### **Global Userbot Telegram**
 
   Super Bot Telegram memungkinkan anda manage berbagai chat group / private / channel sekaligus tempat jual beli produk yang kami jual, anda bisa membeli layanan ini mulai IDR: 25k / bulan
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_userbot_telegram)
 
-5. Global Bot Whatsapp
+### **Global Bot Whatsapp**
 
   Super Bot Telegram memungkinkan anda manage berbagai chat group / private / channel sekaligus tempat jual beli produk yang kami jual, anda bisa membeli layanan ini mulai IDR: 25k / bulan
 
