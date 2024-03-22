@@ -1,4 +1,10 @@
-<h3 align="center">Global Corporation</h3>
+<h3 align="center">
+  Global Corporation
+  
+  ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/global_corporation.png)
+ <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+</h3>
+
 
 <h3 align="center">
   Welcome to Global Corporation profile!
@@ -47,6 +53,27 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
   Applikasi Code Editor cross platform memungkinkan anda untuk coding di berbagai platform
 
 [![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/global_bot_app)
+
+### Ads Gateway
+
+  **Applikasi** Iklan Cross platform memungkinkan anda untuk meng iklankan berbagai platform dengan mudah
+
+[![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/coinlox)
+
+### Archivon
+
+  **Applikasi** operating system based linux yang akan release
+
+[![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/coinlox)
+
+### Coinlox
+
+  **Applikasi** Wallet Cross Platform memungkinkan anda untuk menyimpan uang di internet dengan aman
+
+[![](https://cdn.dribbble.com/userupload/13133188/file/original-2331747061f15217a2f16cc3d665c5b6.jpg)](https://github.com/globalcorporation/coinlox)
+
+
+
 
 ### Global Bot Telegram
 
