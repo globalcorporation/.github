@@ -64,7 +64,7 @@ Dengan tim ahli yang berkomitmen, teknologi canggih, dan pendekatan holistik ter
 <h3 align="center">
   Ads Gateway
 
-  ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/global_corporation.png)
+  ![](https://raw.githubusercontent.com/globalcorporation/.github/main/.github/logo/ads_gateway.png)
 </h3>
 
   **Applikasi** Iklan Cross platform memungkinkan anda untuk meng iklankan berbagai platform dengan mudah
