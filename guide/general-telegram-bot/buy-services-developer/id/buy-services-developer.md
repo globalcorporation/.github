@@ -2,6 +2,9 @@
 
 Cara ini hanya work untuk bot yang menggunakan layanan dari ![](https://t.me/GLOBAL_CORP_ORG_BOT)
 
+Untuk membeli jasa developer pastikan saldo kamu mencukupi ya 
+
+**(Kami menggunakan payment gateway untuk menerima pembayaran automatis jadi semua transaksi aman + support all bank / E-wallet indonesia)**
 
 <!-- START GUIDE TOP UP GENERAL TELEGRAM BOT -->
 
