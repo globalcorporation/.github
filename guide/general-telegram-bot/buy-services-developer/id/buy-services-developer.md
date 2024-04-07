@@ -6,6 +6,16 @@ Untuk membeli jasa developer pastikan saldo kamu mencukupi ya
 
 **(Kami menggunakan payment gateway untuk menerima pembayaran automatis jadi semua transaksi aman + support all bank / E-wallet indonesia)**
 
+### Penting
+
+Tutorial ini tutorial global, nick name menggunakan no brand corp karena bot ini di pakai banyak orang / bot ini tidak hanya di buat untuk 1 brand untuk tutorial akan sama jika anda melihat petunjuk ini di bot anda ikuti saja langkah langkah di bawah ini namun anda harus menggunakan bot yang di rekomendasi
+
+---
+
+
+---
+
+
 <!-- START GUIDE TOP UP GENERAL TELEGRAM BOT -->
 
 
