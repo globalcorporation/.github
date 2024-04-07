@@ -87,6 +87,8 @@ Proses pesanan telah selesai silahkan buka file lalu baca readme
 
 Sebelum program terkirim kami menjanjikan program benar / tidak ada bug
 + Lengkap dengan dokumentasi + sangat mudah di pahami karena setiap bacaan terdapat sumber tutorial
+
+
   
 ---
 
