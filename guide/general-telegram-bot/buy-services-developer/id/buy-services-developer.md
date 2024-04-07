@@ -10,10 +10,53 @@ Untuk membeli jasa developer pastikan saldo kamu mencukupi ya
 
 Tutorial ini tutorial global, nick name menggunakan no brand corp karena bot ini di pakai banyak orang / bot ini tidak hanya di buat untuk 1 brand untuk tutorial akan sama jika anda melihat petunjuk ini di bot anda ikuti saja langkah langkah di bawah ini namun anda harus menggunakan bot yang di rekomendasi
 
+
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/01.png?raw=true)
+
+Pertama silahkan kamu typing **/start** Lalu pilih **Main Menu**
+
+---
+
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/02.png?raw=true)
+
+Tap Menu Services
+
 ---
 
 
 ---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/03.png?raw=true)
+
+Tap Menu Developer
+
+---
+
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/04.png?raw=true)
+
+**Pilih type apa yang kamu pesan**
+
+**Information**
+
+1. Jika kamu ingin **maintance** / **membenarkan bug** dalam program kamu
+   Pastikan kamu menggunakan library yang kami buat agar proses lebih cepat
+
+---
+
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/05.png?raw=true)
+
+Pilih yang kamu mau Harga sudah include **tutorial** ya jadi pogram / hasil source code kami tidak bantu karena petunjuk tertulis sudah sangat sangat lengkap 
+
+---
+
 
 
 <!-- START GUIDE TOP UP GENERAL TELEGRAM BOT -->
