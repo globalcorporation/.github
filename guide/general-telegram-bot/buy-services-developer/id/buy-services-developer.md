@@ -58,6 +58,38 @@ Pilih yang kamu mau Harga sudah include **tutorial** ya jadi pogram / hasil sour
 ---
 
 
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/06.png?raw=true)
+
+Silahkan baca ulang pastikan anda yakin karena jika server tidak overfload proses pesanan bisa di buat secepat mungkin dan kemungkinan jika ada hal yang tidak di inginkan (ada perubahan bacaan / keinginan anda akan di proses lama)
+
+---
+
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/07.png?raw=true)
+
+Disini anda di minta untuk menunggu jika ada hal hal buruk / tidak kunjung di kirim segera melapor
+
+Sebelum melapor minimal membuat laporan di sub corporation / di bot itu sendiri 
+
+Namun jika lama kirim ke GLOBAL CORPORATION + jelasin dengan jelas
+
+---
+
+
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/08.png?raw=true)
+
+Proses pesanan telah selesai silahkan buka file lalu baca readme
+
+Sebelum program terkirim kami menjanjikan program benar / tidak ada bug
++ Lengkap dengan dokumentasi + sangat mudah di pahami karena setiap bacaan terdapat sumber tutorial
+  
+---
+
 
 <!-- START GUIDE TOP UP GENERAL TELEGRAM BOT -->
 
