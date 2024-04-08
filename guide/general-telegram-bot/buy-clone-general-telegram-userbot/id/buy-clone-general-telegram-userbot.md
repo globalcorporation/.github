@@ -32,7 +32,7 @@ Tap Menu Clone
 
 ![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/03.png?raw=true)
 
-Tap Menu Developer
+Pilih Telegram Userbot
 
 ---
 
