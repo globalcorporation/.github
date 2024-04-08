@@ -13,7 +13,7 @@ Tutorial ini tutorial global, nick name menggunakan no brand corp karena bot ini
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot-on-telegram/id/01.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/01.png?raw=true)
 
 Pertama silahkan kamu typing **/start** Lalu pilih **Main Menu**
 
@@ -21,16 +21,16 @@ Pertama silahkan kamu typing **/start** Lalu pilih **Main Menu**
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/02.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/02.png?raw=true)
 
-Tap Menu Services
-
----
-
+Tap Menu Clone
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/03.png?raw=true)
+
+---
+
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/03.png?raw=true)
 
 Tap Menu Developer
 
@@ -38,7 +38,7 @@ Tap Menu Developer
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/04.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/04.png?raw=true)
 
 **Pilih type apa yang kamu pesan**
 
@@ -51,7 +51,7 @@ Tap Menu Developer
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/05.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/05.png?raw=true)
 
 Pilih yang kamu mau Harga sudah include **tutorial** ya jadi pogram / hasil source code kami tidak bantu karena petunjuk tertulis sudah sangat sangat lengkap 
 
@@ -60,7 +60,7 @@ Pilih yang kamu mau Harga sudah include **tutorial** ya jadi pogram / hasil sour
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/06.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/06.png?raw=true)
 
 Silahkan baca ulang pastikan anda yakin karena jika server tidak overfload proses pesanan bisa di buat secepat mungkin dan kemungkinan jika ada hal yang tidak di inginkan (ada perubahan bacaan / keinginan anda akan di proses lama)
 
@@ -68,7 +68,7 @@ Silahkan baca ulang pastikan anda yakin karena jika server tidak overfload prose
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/07.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/07.png?raw=true)
 
 Disini anda di minta untuk menunggu jika ada hal hal buruk / tidak kunjung di kirim segera melapor
 
@@ -81,7 +81,7 @@ Namun jika lama kirim ke GLOBAL CORPORATION + jelasin dengan jelas
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/08.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/08.png?raw=true)
 
 Proses pesanan telah selesai silahkan buka file lalu baca readme
 
