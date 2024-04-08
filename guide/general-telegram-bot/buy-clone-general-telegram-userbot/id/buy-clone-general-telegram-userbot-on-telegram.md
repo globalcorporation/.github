@@ -1,4 +1,4 @@
-# Guide Petunjuk Cara Pembelian Jasa Developer
+# Guide Petunjuk Cara Pembelian Clone Telegram Userbot
 
 Cara ini hanya work untuk bot yang menggunakan layanan dari ![](https://t.me/GLOBAL_CORP_ORG_BOT)
 
@@ -13,7 +13,7 @@ Tutorial ini tutorial global, nick name menggunakan no brand corp karena bot ini
 
 ---
 
-![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-services-developer/id/01.png?raw=true)
+![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot-on-telegram/id/01.png?raw=true)
 
 Pertama silahkan kamu typing **/start** Lalu pilih **Main Menu**
 
