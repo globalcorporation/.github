@@ -40,12 +40,11 @@ Pilih Telegram Userbot
 
 ![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/04.png?raw=true)
 
-**Pilih type apa yang kamu pesan**
+**Pilih Type**
 
 **Information**
 
-1. Jika kamu ingin **maintance** / **membenarkan bug** dalam program kamu
-   Pastikan kamu menggunakan library yang kami buat agar proses lebih cepat
+1. Pilih sesuai kemampuan dan yang pasti ya 
 
 ---
 
@@ -53,7 +52,7 @@ Pilih Telegram Userbot
 
 ![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/05.png?raw=true)
 
-Pilih yang kamu mau Harga sudah include **tutorial** ya jadi pogram / hasil source code kami tidak bantu karena petunjuk tertulis sudah sangat sangat lengkap 
+Pilih mau deploy di mana kami sarankan deploy cloud ya
 
 ---
 
@@ -62,7 +61,7 @@ Pilih yang kamu mau Harga sudah include **tutorial** ya jadi pogram / hasil sour
 
 ![](https://github.com/globalcorporation/.github/blob/main/assets/general-telegram-bot/buy-clone-general-telegram-userbot/id/06.png?raw=true)
 
-Silahkan baca ulang pastikan anda yakin karena jika server tidak overfload proses pesanan bisa di buat secepat mungkin dan kemungkinan jika ada hal yang tidak di inginkan (ada perubahan bacaan / keinginan anda akan di proses lama)
+Proses clone sedang di kerjakan kemungkinan 1-3 hari
 
 ---
 
