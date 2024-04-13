@@ -157,17 +157,33 @@ With a committed team of experts, advanced technology, and a holistic approach t
     - **Terminate**
     - **Upgrade**
 
-## Cara Beli Jasa / Products 
+## How To Buy Services Or Products | Cara Beli Jasa Atau Products
 
-- **Lewat Telegram Bot**
-  Jika kamu ingin membeli bisa lewat telegram automatis pembayaran hingga proses
-  (jika proses lama itu bukan **SCAM !!** kemungkinan **server down** jadi proses bisa lebih lama jika ragu tap menu report lalu isi keluhan)
-  -  Buka Bot: https://t.me/GLOBAL_CORP_ORG_BOT
-  -  Isi data pribadi / subscribe channel
-  -  Tap Main menu pilih services / products
-  -  Pilih Product / Services
-  -  Pastikan coin mencukupi
-  -  Isi data yang di butuhkan
+- **Via Telegram Bot**
+
+  - **Englisth**
+     
+     If you want to buy, you can use Telegram to automatically process the payment
+     (if the long process is not a **SCAM!!** it's possible that the **server is down** so the process could take longer. If in doubt, tap the report menu then fill in a complaint)
+
+     - Open Bot: https://t.me/GLOBAL_CORP_ORG_BOT
+     - Fill in personal data / subscribe to the channel
+     - Tap Main menu select services / products
+     - Select Products / Services
+     - Make sure there are enough coins
+     - Fill in the required data
+
+
+  - **Indonesia**
+
+     Jika kamu ingin membeli bisa lewat telegram automatis pembayaran hingga proses
+     (jika proses lama itu bukan **SCAM !!** kemungkinan **server down** jadi proses bisa lebih lama jika ragu tap menu report lalu isi keluhan)
+     -  Buka Bot: https://t.me/GLOBAL_CORP_ORG_BOT
+     -  Isi data pribadi / subscribe channel
+     -  Tap Main menu pilih services / products
+     -  Pilih Product / Services
+     -  Pastikan coin mencukupi
+     -  Isi data yang di butuhkan
 
 - **Lewat Telegram USER**
   -  Buka: https://t.me/general_user
