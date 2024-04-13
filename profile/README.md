@@ -178,9 +178,7 @@ Video Tutorial
 [![Watch the video](https://img.youtube.com/vi/TY0Y21C6asM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TY0Y21C6asM)
 
 - **Lewat App**
-  jika kamu ingin melihat prroduct / jasa dengan full demo kamu bisa beli lewat app
- 
-
+  jika kamu ingin melihat product / jasa dengan full demo kamu bisa beli lewat app
 
 ## 📺 Latest YouTube Videos
 
