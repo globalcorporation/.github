@@ -185,7 +185,8 @@ With a committed team of experts, advanced technology, and a holistic approach t
      -  Pastikan coin mencukupi
      -  Isi data yang di butuhkan
 
-- **Lewat Telegram USER**
+- **Via Telegram USER**
+  
   -  Buka: https://t.me/general_user
   -  Ucapin apapun yang kamu butuh jasa dev / apapun
 
@@ -194,7 +195,14 @@ Video Tutorial
 [![Watch the video](https://img.youtube.com/vi/TY0Y21C6asM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TY0Y21C6asM)
 
 - **Lewat App**
-  jika kamu ingin melihat product / jasa dengan full demo kamu bisa beli lewat app
+
+  - **English** 
+
+    If you want to see a product/service with a full demo, you can buy it via the app
+
+  - **Indonesia**
+
+    jika kamu ingin melihat product / jasa dengan full demo kamu bisa beli lewat app
 
 ## 📺 Latest YouTube Videos
 
